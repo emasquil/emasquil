@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emasquil
+- 👀 I’m interested in Machine Learing. More specifically: Reinforcement Learning and Self-Supervised Learning.
+- 🌱 I’m currently learning a lot at my master at ENS Paris-Saclay. Mostly applied math and machine learning.
+- 💞️ I’m looking to collaborate on a research internship within an interesting team.
+- 📫 How to reach me --> [send me an email](mailto:eliasmasquil@gmail.com)
