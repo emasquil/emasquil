@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @emasquil
-- 👀 I’m interested in Machine Learing. More specifically: Reinforcement Learning and Self-Supervised Learning.
-- 🌱 I’m currently learning a lot at my master at ENS Paris-Saclay. Mostly applied math and machine learning.
-- 💞️ I’m looking to collaborate on a research internship within an interesting team.
+- 👀 I’m interested in AI. More specifically: Reinforcement Learning and Self-Supervised Learning.
+- 🌱 I’m currently a Research Intern at Flowers Team (INRIA Bordeaux), working in multi-agent reinforcement learning and emergent communication.
 - 📫 How to reach me --> [send me an email](mailto:eliasmasquil@gmail.com)
