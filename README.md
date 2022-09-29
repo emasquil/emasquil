@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @emasquil
-- 👀 I’m interested in AI. More specifically: Reinforcement Learning and Self-Supervised Learning.
-- 🌱 I’m currently a Research Intern at Flowers Team (INRIA Bordeaux), working in multi-agent reinforcement learning and emergent communication.
+- 👀 I’m interested in AI: Reinforcement Learning, Self-Supervised Learning, Computer Vision, etc.
+- 🌱 I’m currently looking for a new challenge
 - 📫 How to reach me --> [send me an email](mailto:eliasmasquil@gmail.com)
