@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @emasquil
-- 👀 I’m interested in AI: Reinforcement Learning, Self-Supervised Learning, Computer Vision, etc.
 - 🌱 I’m currently looking for a new challenge
 - 📫 How to reach me --> [send me an email](mailto:eliasmasquil@gmail.com)
