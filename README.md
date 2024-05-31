@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @emasquil
-- 🌱 I’m currently looking for a new challenge
 - 📫 How to reach me --> [send me an email](mailto:eliasmasquil@gmail.com)
